@@ -1,7 +1,7 @@
 <!-- ===================== Banner ===================== -->
 
 <p align="center">
-  <img src="assets/banner.png" alt="Mahasin Prodhan Banner" width="100%">
+ https://chatgpt.com/s/m_6a4fdcd080908191995f890602c7ba6b
 </p>
 
 ---
