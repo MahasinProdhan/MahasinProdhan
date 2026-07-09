@@ -1,69 +1,105 @@
----
-
 # 🚀 Key Projects
 
 <table>
-<tr>
-<td width="50%">
-<img src="https://github.com/yourusername/yourrepo/blob/main/assets/civira.png" width="100%">
+  <tr>
+    <td width="100%">
 
-### 🌍 CIVIRA
-**AI-Powered Civic Issue Reporting System**
+<img src="assets/civira.png" width="100%" alt="CIVIRA"/>
 
-A full-stack platform that enables citizens to report civic issues through geo-tagged photo uploads, real-time complaint tracking, officer workflows, and AI-assisted issue categorization.
+<h3>🌍 CIVIRA</h3>
 
-**Tech Stack**
+<b>AI-Powered Civic Issue Reporting System</b>
+
+<p>
+A full-stack civic issue reporting platform that enables citizens to report issues using geo-tagged photo uploads, real-time complaint tracking, officer workflows, and AI-assisted issue categorization.
+</p>
+
+<b>Tech Stack</b><br>
+
 `React` `Node.js` `Express.js` `MongoDB` `Maps API` `AI`
 
-🟢 **Status:** Ongoing
+<br><br>
 
-<p>
-<a href="https://civira.onrender.com/">🌐 Live Demo</a> •
-<a href="https://github.com/mahasinprodhan/civira">💻 Source Code</a>
-</p>
+🟢 <b>Status:</b> Ongoing
+
+<br><br>
+
+<a href="https://civira.onrender.com/">
+    🌐 Live Demo
+</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://github.com/mahasinprodhan/civira">
+    💻 Source Code
+</a>
 
 </td>
-</tr>
+  </tr>
 
-<tr>
-<td width="50%">
-<img src="https://github.com/yourusername/yourrepo/blob/main/assets/docnow.png" width="100%">
+  <tr>
+    <td><br></td>
+  </tr>
 
-### 🩺 DocNow
-**Doctor Appointment Platform**
+  <tr>
+    <td width="100%">
 
-A role-based doctor appointment booking platform supporting patients, doctors, and administrators with secure authentication, appointment scheduling, and Razorpay payment integration.
+<img src="assets/docnow.png" width="100%" alt="DocNow"/>
 
-**Tech Stack**
+<h3>🩺 DocNow</h3>
+
+<b>Doctor Appointment Platform</b>
+
+<p>
+A role-based doctor appointment platform supporting patients, doctors, and administrators with secure authentication, appointment scheduling, and Razorpay payment integration.
+</p>
+
+<b>Tech Stack</b><br>
+
 `React` `Node.js` `Express.js` `MongoDB` `JWT` `Razorpay`
 
-<p>
-<a href="https://doc-now-nu.vercel.app/">🌐 Live Demo</a> •
-<a href="https://github.com/mahasinprodhan/docnow">💻 Source Code</a>
-</p>
+<br><br>
+
+<a href="https://doc-now-nu.vercel.app/">
+    🌐 Live Demo
+</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://github.com/mahasinprodhan/docnow">
+    💻 Source Code
+</a>
 
 </td>
-</tr>
+  </tr>
 
-<tr>
-<td width="50%">
-<img src="https://github.com/yourusername/yourrepo/blob/main/assets/mindmine.png" width="100%">
+  <tr>
+    <td><br></td>
+  </tr>
 
-### 🎓 Mindmine Institute
-**Coaching Institute Website**
+  <tr>
+    <td width="100%">
 
-A modern MERN-based educational platform showcasing institute information, courses, categories, and student resources with a responsive UI.
+<img src="assets/mindmine.png" width="100%" alt="Mindmine"/>
 
-**Tech Stack**
+<h3>🎓 Mindmine Institute</h3>
+
+<b>Coaching Institute Website</b>
+
+<p>
+A modern MERN-based educational platform showcasing courses, categories, institute information, and student resources with a responsive user interface.
+</p>
+
+<b>Tech Stack</b><br>
+
 `React` `Node.js` `Express.js` `MongoDB`
 
-<p>
-<a href="https://mind-mine-institute-mahasin.vercel.app/">🌐 Live Demo</a> •
-<a href="https://github.com/passportpulse/mind-mine-institute-mahasin">💻 Source Code</a>
-</p>
+<br><br>
+
+<a href="https://mind-mine-institute-mahasin.vercel.app/">
+    🌐 Live Demo
+</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://github.com/passportpulse/mind-mine-institute-mahasin">
+    💻 Source Code
+</a>
 
 </td>
-</tr>
+  </tr>
 </table>
-
----
