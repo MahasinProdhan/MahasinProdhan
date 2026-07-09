@@ -1,105 +1,131 @@
+<!-- ===================== Banner ===================== -->
+
+<p align="center">
+  <img src="assets/banner.png" alt="Mahasin Prodhan Banner" width="100%">
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://yourportfolio.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://leetcode.com/u/your-leetcode/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+
+<a href="https://instagram.com/your-instagram/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="mailto:mahasinprodhan2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+---
+
 # 🚀 Key Projects
 
 <table>
-  <tr>
-    <td width="100%">
+<tr>
 
-<img src="assets/civira.png" width="100%" alt="CIVIRA"/>
+<td align="center" width="33%">
 
-<h3>🌍 CIVIRA</h3>
-
-<b>AI-Powered Civic Issue Reporting System</b>
-
-<p>
-A full-stack civic issue reporting platform that enables citizens to report issues using geo-tagged photo uploads, real-time complaint tracking, officer workflows, and AI-assisted issue categorization.
-</p>
-
-<b>Tech Stack</b><br>
-
-`React` `Node.js` `Express.js` `MongoDB` `Maps API` `AI`
-
-<br><br>
-
-🟢 <b>Status:</b> Ongoing
-
-<br><br>
-
-<a href="https://civira.onrender.com/">
-    🌐 Live Demo
-</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://github.com/mahasinprodhan/civira">
-    💻 Source Code
-</a>
-
-</td>
-  </tr>
-
-  <tr>
-    <td><br></td>
-  </tr>
-
-  <tr>
-    <td width="100%">
-
-<img src="assets/docnow.png" width="100%" alt="DocNow"/>
+<img src="assets/docnow.png" alt="DocNow" width="100%">
 
 <h3>🩺 DocNow</h3>
 
 <b>Doctor Appointment Platform</b>
 
-<p>
-A role-based doctor appointment platform supporting patients, doctors, and administrators with secure authentication, appointment scheduling, and Razorpay payment integration.
-</p>
+Role-based doctor appointment booking platform with secure payments, authentication, and appointment scheduling.
 
-<b>Tech Stack</b><br>
+<b>Tech</b>
 
-`React` `Node.js` `Express.js` `MongoDB` `JWT` `Razorpay`
+`React` `Node.js` `Express` `MongoDB` `JWT` `Razorpay`
 
 <br><br>
 
-<a href="https://doc-now-nu.vercel.app/">
-    🌐 Live Demo
-</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://github.com/mahasinprodhan/docnow">
-    💻 Source Code
+💻 Source Code
+</a>
+
+&nbsp;&nbsp;|&nbsp;&nbsp;
+
+<a href="https://doc-now-nu.vercel.app/">
+🌐 Live Demo
 </a>
 
 </td>
-  </tr>
 
-  <tr>
-    <td><br></td>
-  </tr>
+<td align="center" width="33%">
 
-  <tr>
-    <td width="100%">
-
-<img src="assets/mindmine.png" width="100%" alt="Mindmine"/>
+<img src="assets/mindmine.png" alt="Mindmine Institute" width="100%">
 
 <h3>🎓 Mindmine Institute</h3>
 
 <b>Coaching Institute Website</b>
 
-<p>
-A modern MERN-based educational platform showcasing courses, categories, institute information, and student resources with a responsive user interface.
-</p>
+A modern MERN-based coaching institute platform featuring courses, institute information, and responsive design.
 
-<b>Tech Stack</b><br>
+<b>Tech</b>
 
-`React` `Node.js` `Express.js` `MongoDB`
+`React` `Node.js` `Express` `MongoDB`
 
 <br><br>
 
-<a href="https://mind-mine-institute-mahasin.vercel.app/">
-    🌐 Live Demo
-</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://github.com/passportpulse/mind-mine-institute-mahasin">
-    💻 Source Code
+💻 Source Code
+</a>
+
+&nbsp;&nbsp;|&nbsp;&nbsp;
+
+<a href="https://mind-mine-institute-mahasin.vercel.app/">
+🌐 Live Demo
 </a>
 
 </td>
-  </tr>
+
+<td align="center" width="33%">
+
+<img src="assets/civira.png" alt="CIVIRA" width="100%">
+
+<h3>🌍 CIVIRA</h3>
+
+<b>AI-Powered Civic Issue Reporting System</b>
+
+Geo-tagged complaint reporting platform with officer workflow, AI-assisted categorization, and complaint tracking.
+
+🟢 <b>Ongoing</b>
+
+<b>Tech</b>
+
+`React` `Node.js` `Express` `MongoDB` `Maps API` `AI`
+
+<br><br>
+
+<a href="https://github.com/mahasinprodhan/civira">
+💻 Source Code
+</a>
+
+&nbsp;&nbsp;|&nbsp;&nbsp;
+
+<a href="https://civira.onrender.com/">
+🌐 Live Demo
+</a>
+
+</td>
+
+</tr>
 </table>
+
+---
