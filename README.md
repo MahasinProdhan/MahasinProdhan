@@ -1,29 +1,69 @@
-<img width="1672" height="941" alt="Banner" src="https://github.com/user-attachments/assets/be8c0ea7-dd85-471d-9646-4f23684ed8da" />
-
 ---
 
-## 🌐 Connect with Me
+# 🚀 Key Projects
 
-<p align="center">
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+<table>
+<tr>
+<td width="50%">
+<img src="https://github.com/yourusername/yourrepo/blob/main/assets/civira.png" width="100%">
 
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+### 🌍 CIVIRA
+**AI-Powered Civic Issue Reporting System**
 
-  <a href="https://leetcode.com/u/yourusername">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
+A full-stack platform that enables citizens to report civic issues through geo-tagged photo uploads, real-time complaint tracking, officer workflows, and AI-assisted issue categorization.
 
-  <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+**Tech Stack**
+`React` `Node.js` `Express.js` `MongoDB` `Maps API` `AI`
 
-  <a href="mailto:mahasinprodhan2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+🟢 **Status:** Ongoing
+
+<p>
+<a href="https://civira.onrender.com/">🌐 Live Demo</a> •
+<a href="https://github.com/mahasinprodhan/civira">💻 Source Code</a>
 </p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<img src="https://github.com/yourusername/yourrepo/blob/main/assets/docnow.png" width="100%">
+
+### 🩺 DocNow
+**Doctor Appointment Platform**
+
+A role-based doctor appointment booking platform supporting patients, doctors, and administrators with secure authentication, appointment scheduling, and Razorpay payment integration.
+
+**Tech Stack**
+`React` `Node.js` `Express.js` `MongoDB` `JWT` `Razorpay`
+
+<p>
+<a href="https://doc-now-nu.vercel.app/">🌐 Live Demo</a> •
+<a href="https://github.com/mahasinprodhan/docnow">💻 Source Code</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<img src="https://github.com/yourusername/yourrepo/blob/main/assets/mindmine.png" width="100%">
+
+### 🎓 Mindmine Institute
+**Coaching Institute Website**
+
+A modern MERN-based educational platform showcasing institute information, courses, categories, and student resources with a responsive UI.
+
+**Tech Stack**
+`React` `Node.js` `Express.js` `MongoDB`
+
+<p>
+<a href="https://mind-mine-institute-mahasin.vercel.app/">🌐 Live Demo</a> •
+<a href="https://github.com/passportpulse/mind-mine-institute-mahasin">💻 Source Code</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
